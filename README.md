@@ -6,7 +6,6 @@ This is a portfolio template designed to showcase your skills and projects in a 
 - 3D transitions and animations using Three.Js
 - Interactive navigation menu
 - Smooth scrolling
-- Contact form
 - Getting Started
 
 To use this template, simply clone the repository to your local machine and open the index.html file in your web browser. The template is designed to be easily customizable, so feel free to modify the code and styles to fit your personal brand and needs.
