@@ -258,8 +258,8 @@ var effect = new hoverEffect({
   image2: 'assets/img/cover-2.png',
   displacementImage: 'assets/hover/14.jpg',
   hover: false,
-  speedIn: 2.6,
-  speedOut: 2.6,
+  speedIn: 2.8,
+  speedOut: 2.8,
 });
 
 let i = 0
